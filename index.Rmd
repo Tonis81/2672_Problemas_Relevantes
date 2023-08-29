@@ -7,7 +7,7 @@ bibliography: "`r here::here('metadata', 'library.bib')`"
 csl: "`r here::here('metadata', 'environmental-research.csl')`"
 ---
 
-# Down the rabbit-hole
+# Exposición crónica al arsénico
 
 
 ```{r, echo=FALSE, results="hide",include=FALSE}
@@ -57,6 +57,243 @@ knitr::include_graphics(here ("0. Figures", "Periodic table.jpeg"))
 <br/>
 
 [@MohammedAbdul2015]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+## Arsénico y efectos sobre la salud
+
+<br/>
+
+Keratinosis arsenical
+```{r , eval = TRUE, out.width="40%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Keratinosis_arsenical.png"))
+```
+
+<br/>
+
+- La ingestión crónica del arsénico inorgánico a altas dosis se asocia con un incremento del riesgo de:
+
+  - Cáncer de piel, pulmón, vejiga y posiblemente otros. 
+
+  - La [International Agency for Research on Cancer - IARC](https://monographs.iarc.who.int/agents-classified-by-the-iarc/) – clasifica al arsénico inorgánico como Grupo 1 carcinógeno para los humanos.
+  
+  - Lesiones de piel son de las más características.
+
+  - Enfermedades neuronales, cardiovascular, respiratorias.
+  
+  - Otras enfermedades no malignas incluye la diabetes.
+
+- Exposiciones crónicas a dosis bajas de arsénico inorgánico son preocupantes en especial para las poblaciones vulnerables – **mujeres embarazadas, infantes y niños**.
+
+<br/>
+
+La [Organización Mundial de la Salud - WHO](https://www.who.int/news-room/photo-story/photo-story-detail/10-chemicals-of-public-health-concern) califica al arsénico como uno de los 10 químicos de preocupación para la salud pública. 
+
+<hr style="border:2px solid blue"> </hr>
+
+## Arsénico en agua
+
+```{r , eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Worldmap_As.jpg"))
+```
+
+<br/>
+
+- Se estima que más de 100 millones de personas en el mundo están expuestas al arsénico de forma crónica por el consumo de agua altamente contaminada.
+
+- Origen geogénico – potenciado por las actividades humanas. 
+
+- Niveles máximos de As en agua de bebida: 50 µg/L –> 10 µg/L -> 5 µg/L (NH & NJ)
+
+<br/>
+
+| País                          | Población expuesta estimada (millones)  | Concentración arsénico (µg/L)  |
+|-------------------------------|-----------------------------------------|--------------------------------|
+| **Bangladesh**                | 35 to 77                                | <10 to >2500                   |
+| Argentina                     | 2                                       | <1 to 7550                     |
+| Chile                         | 0.4                                     | 600 to 800                     |
+| China                         | 0.5 to 2.0                              | <50 to 4400                    |
+| Ghana                         | <0.1                                    | <2 to 175                      |
+| India                         | >1.0                                    | <10 to >800                    |
+| Mexico                        | 0.4                                     | 5 to 43                        |
+| Taiwan                        | NA                                      | <1 to >3000                    |
+| United States of America      | >3.0                                    | <1 to >3100                    |
+| Vietnam                       | >3.0                                    | <0.1 to 810                    |
+
+<br/>
+
+[@Yosim2015; @Podgorski2020; @TheCounciloftheEuropeanUnion1998; @NewHampshire2019]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+### Bengala Occidental, India
+
+```{r , eval = TRUE, out.width="60%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Map West Bengal.png"))
+```
+
+```{r , eval = TRUE, out.width="50%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "handpump.png"))
+```
+
+- Pozos y lagos - contaminación microbioana.
+
+- 70s/80s excavación de bombas de agua de mano. Agua para beber y agricultura.
+
+- La concentración de arsénico no se analizó. 
+
+<br/>
+
+[@Panda2015]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+
+## Fuentes de exposición
+
+```{r , eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Fuentes de exposición.png"))
+```
+
+[@Carbonell-Barrachina2009b]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Exposición al arsénico - problema global
+
+```{r , eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Problema global.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+### Formas químicas del arsénico
+
+
+```{r , eval = TRUE, out.width="15%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "As symbol.jpg"))
+```
+
+```{r , eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "structura química.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Arsenico en alimentos
+
+
+```{r , eval = TRUE, out.width="30%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Children eating.jpg"))
+```
+
+```{r , eval = TRUE, out.width="60%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Map West Bengal.png"))
+```
+
+```{r , eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "As Vegetables india.png"))
+```
+
+* Recordatorio alimentario 24h (*n* = 129).
+
+* Arroz >70% ingesta diaria total de alimentos. Adultos: 400 - 650 g/día.
+
+* Los alimentos contribuyen a la exposición de arsénico inorgánico.
+
+<br/>
+
+[@Signes-Pastor2008a]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## El arroz
+
+```{r , eval = TRUE, out.width="40%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "fisiología arroz.jpg"))
+```
+
+```{r , eval = TRUE, out.width="50%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Grano de arroz.jpg"))
+```
+
+* Cultivo en condiciones de inundación iAs movilizado.
+
+* El arsénico es absorbido por la planta de arroz a través de canales para nutrientes. El arsenito (AsIII) a través del los canales de silicio - altamente eficientes en la planta de arroz. Arseniato (AsV) a través de los transportadores de fosfato. 
+
+* El salvado de arroz (Pericarpio y Aleurona) contiene niveles muy elevados de iAs. Superalimento, ingrediente popular en alimentos para dietas saludables de un alto contenido en nutrientes. El arroz integral tiene más As que el arroz pulido blanco.
+
+<br/>
+
+[@Williams2007a; @Signes-Pastor2017a]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+### El arroz en la Peninsula Ibérica (España y Portugal)
+
+```{r , eval = TRUE, out.width="60%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Mapa España.png"))
+```
+
+```{r , eval = TRUE, out.width="50%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Paddy field.jpg"))
+```
+
+### Concentraciones de arsénico y especies en arroz blanco cultivado en los principales arrozales de la Peninsula Ibérica.
+
+```{r , eval = TRUE, out.width="60%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Rice As concentrations.png"))
+```
+
+* Mediana (rango):
+
+	* Suelo arsénico total: 8.7 (2.3 - 17.0) mg/kg
+	
+	* Arroz arsénico inorgánico: 71 (27 – 175) µg/kg
+	
+	* Arroz DMA: 55 (3 – 291) µg/kg
+
+* 25% (*n* = 144) > 100 µg iAs/kg
+
+<br/>
+
+[@Signes-Pastor2016]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
 
 
 ## References
