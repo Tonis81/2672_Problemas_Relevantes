@@ -1,9 +1,5 @@
-down-the-rabbit-hole
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
-introducción-arsénico
-references
 exposición-crónica-al-arsénico
+introducción-arsénico
 arsénico-y-efectos-sobre-la-salud
 arsénico-en-agua
 bengala-occidental-india
@@ -27,5 +23,6 @@ estrategias-de-los-fabricantes-de-productos-de-arroz-para-reducir-la-carga-de-ar
 healthy-babies-bright-future
 closer-to-zero-plan
 oportunidades-y-retos-para-intervenir-la-ingesta-de-arsénico-en-la-dieta-brief-communication
+references
 mercurio
 discruptores-endocrinos
