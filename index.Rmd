@@ -3,7 +3,62 @@ title: "2672_Problemas Relevantes"
 author: "A.J. Signes Pastor"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+bibliography: "`r here::here('metadata', 'library.bib')`"
+csl: "`r here::here('metadata', 'environmental-research.csl')`"
 ---
 
 # Down the rabbit-hole
+
+
+```{r, echo=FALSE, results="hide",include=FALSE}
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+library(readxl)
+library(tibble)
+library(here)
+```
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Rice_Water.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+## Introducción arsénico
+
+<br/>
+
+```{r, eval = TRUE, out.width="70%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Periodic table.jpeg"))
+```
+
+<br/>
+
+- El arsénico es un **metaloide** con propiedades metálicas y no metálicas.
+
+- Estados de oxidación: arsenato (AsV), arsenito (AsIII), arsénico (As0), arsina (AsIII). 
+
+- Ubicuo en el ambiente procedentes de fuentes naturales o por la actividad del hombre.
+
+  - Componente natural en la corteza Terrestre. Se encuentra en el agua, aire, suelo y comida.
+  
+  - Subproducto de la actividad industrial y agrícola como pesticidas, fundición, conservador de madera.
+
+- En general hay dos formas químicas de As: orgánico e inorgánico. El arsénico inorgánico se considera más toxico que el orgánico. 
+
+
+<br/>
+
+[Periodic Table - Royal Society of Chemistry](https://www.rsc.org/periodic-table)
+
+<br/>
+
+[@MohammedAbdul2015]
+
+
+## References
+<div id="refs"></div>
 
