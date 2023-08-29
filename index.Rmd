@@ -541,6 +541,133 @@ knitr::include_graphics(here ("0. Figures", "Neurodevelopment INMA.png"))
 
 [@Signes-Pastor2019a]
 
+## Prensa
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Media.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Regulación
+
+**Junio 2015 (Announcement). January 2016 (Regulación)**
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Rice regulation.png"))
+```
+
+[@EC2015]
+
+<br/>
+
+**Abril 2016 (borrador) - Agosto 2020 (aceptación)**
+
+```{r, eval = TRUE, out.width="50%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "FDA.png"))
+```
+
+<br/>
+
+Propuesta de niveles de iAs en cereales infantiles de arroz. Borrador guía para industria: iAs en cereales de arroz para infantes: Nivel de acción 100 µg/kg. Guía –> No es una regulación!
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "UK levels.png"))
+```
+
+[@Signes-Pastor2016b; @Signes-Pastor2017e; @Carey2018a]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Estrategias de los fabricantes de productos de arroz para reducir la carga de arsénico inorgánico:
+
+- Productos puros de arroz, como las tortas, parece que arroz con bajo iAs se ha seleccionado. 
+
+- Parece que hay una menor representación de alimentos puros de arroz producidos/disponibles
+
+- Se tiende a mezclar el arroz con otros cereales libre en gluten (eg. maíz, avena, quínoa, etc) para diluir el contenido de arroz y así reducir la carga de iAs. Ha aumentado la presencia de productos multicereal y mueslis para niños.
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Healthy babies bright future
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Healthy baby.png"))
+```
+
+[link](https://www.healthybabyfood.org/sites/healthybabyfoods.org/files/2020-04/BabyFoodReport_ENGLISH_R6.pdf)
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Representatives.png"))
+```
+
+[link01](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/2021-02-04%20ECP%20Baby%20Food%20Staff%20Report.pdf)
+
+[link02](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/ECP%20Second%20Baby%20Food%20Report%209.29.21%20FINAL.pdf)
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Closer to Zero plan
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Closer to zero.png"))
+```
+
+[link](https://www.youtube.com/watch?v=Sb9Uhiq6Hv4&t=5167s)
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Oportunidades y retos para intervenir la ingesta de arsénico en la dieta (Brief communication)
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Oportunities.png"))
+```
+
+”La reducción de la ingesta dietética de arsénico solo se puede conseguir con un enfoque multisectorial, multiagencia, con base científica y de salud pública coordinado por legisladores e industria”
+
+[@Nachman2018]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Final.png"))
+```
 
 ## References
 <div id="refs"></div>
