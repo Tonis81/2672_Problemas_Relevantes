@@ -1,7 +1,7 @@
 --- 
 title: "2672_Problemas Relevantes"
 author: "A.J. Signes Pastor"
-date: "`r Sys.Date()`"
+#date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 bibliography: "`r here::here('metadata', 'library.bib')`"
 csl: "`r here::here('metadata', 'environmental-research.csl')`"
@@ -294,6 +294,252 @@ knitr::include_graphics(here ("0. Figures", "Rice As concentrations.png"))
 <hr style="border:2px solid blue"> </hr>
 
 <br/>
+
+## Metabolismo
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Metabolism.png"))
+```
+
+* El metabolismo del arsénico inorgánico es un proceso multifase.  Catalizado por la arsenico-3-metiltransferasa (AS3MT). S-adenosylmetionina como el grupo donador de metilos (SAM).
+
+* Especiación de As en orina  - biomarcador de exposición:
+
+  * Tiene en cuenta todas las fuentas de exposición.
+  
+  * Independiente de la valoración por uno mismo.
+
+* Estructuras biológicas ricas en queratina como el pelo y las uñas. Biomarcador de exposición a largo plazo.
+
+<br/>
+
+[@IRIS2013]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## Biomarcadores de exposición
+
+* **Sangre**
+
+  * Ventajas:
+  
+    * Marcadores de exposición interna de corto plazo.
+    
+    * Adecuado para evaluar efectos biologicos tempranos (daño DNA  o estrés oxidativo).
+    
+  * Inconvenientes:
+    
+    * Matriz con dificultadad de trabajo.
+    
+    * Muestreo invasivo.
+
+* **Uñas y pelo**
+
+  * Ventajas
+
+    * Marcador de exposición a largo plazo.
+  
+    * Muestreo no invasivo.
+
+    * Fácil transporte y conservación.
+
+    * Marcador de exposición *in utero* (uñas del infante).
+    
+  * Inconvenientes
+  
+    * Posibilidad de contaminación externa (ej. champús, pintura de uñas, etc).
+
+* **Orina**
+
+  * Ventajas
+  
+    * Marcador de exposición de corto plazo
+    
+    * Muestreo no invasivo.
+    
+    * Especiación – Capacidad de metilación
+  
+  * Inconvenientes
+  
+    * Cofactores potenciales (ej. sexo, edad, consume de pescado, etc.)
+    
+    * Ajuste por dilución. 
+
+<br/>
+
+[@Hall2006; @Marchiset-Ferlay2012; @Farzan2013a]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+### Uñas como biomarcador 
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Review uñas.png"))
+```
+
+[link](https://pubmed.ncbi.nlm.nih.gov/33075355/) [@Signes-Pastor2020a]
+
+<br/>
+
+* *n* = 129 – datos cuantitativos As (29 paises)
+
+* Agua de bebida contaminada, exposición ocupacional, y áreas industriales.
+
+* Medida adecuada para evaluar la exposición de arsénico con enfermedades crónicas.
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Mapa review.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## New Hampshire Birth Cohort Study (NHBCS)
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "NHBCS.png"))
+```
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Map america.png"))
+```
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "NHBCS samples.png"))
+```
+
+[link](https://geiselmed.dartmouth.edu/childrenshealth/new-hampshire-birth-cohort-study/) [@NHBCS2021]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+### Destete
+
+<br/>
+
+**Efecto del destete sobre la exposición al arsénico**
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "paper transition.png"))
+```
+
+[link](https://www.nature.com/articles/s41598-018-25372-1) [@Signes-Pastor2018d]
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+*Diseño del estudio*
+
+* Pre-destete (4 meses) & Post-destete (6 meses) - *n* = 15.
+
+* Especiación de arsénico en la orina y el agua - *n* = 15 (agua mediana of 0.102 µg/L (rango 0.011 to 10.5 µg/L).
+
+* Diario alimentario 3 días antes de la toma de muestra de orina - leche materna, agua, fórmula, cereales de arroz, otros cereales, frutas, y vegetales.
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+*Especiación de arsénico*
+
+<br/>
+
+ICP-MS
+
+```{r, eval = TRUE, out.width="50%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "ICPMS.jpg"))
+```
+
+<br/>
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "cromatografía.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+**Efecto del destete sobre la exposición al arsénico en infantes**
+
+<br/>
+
+```{r, eval = TRUE, out.width="80%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Destete.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+**Concentración de especies de arsénico en orina de infantes en relación a la dieta a los 6 meses de edad**
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Asociación con alimentos.png"))
+```
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+**Conclusions**
+
+- Durante la transición de una dieta líquida a una sólida se asocial con un aumento de la concentración urinaria de iAs, MMA, DMA, and ΣAs.
+
+- Un alto consume de cereals de arroz, frutas y verduras está asociado con un aumento de la concentracion urinaria de iAs, MMA, DMA, and ΣAs.
+
+### Limitations
+
+Tamaño muestral
+
+<br/>
+
+<hr style="border:2px solid blue"> </hr>
+
+<br/>
+
+## INfancia y Medio Ambiente (INMA)
+
+```{r, eval = TRUE, out.width="100%", echo=FALSE, fig.align='center'}
+knitr::include_graphics(here ("0. Figures", "Neurodevelopment INMA.png"))
+```
+
+[Acceso al artículo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6541502/)
+
+[@Signes-Pastor2019a]
 
 
 ## References
